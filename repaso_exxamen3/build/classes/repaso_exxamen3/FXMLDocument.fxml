@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="289.0" prefWidth="418.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/18" fx:controller="repaso_exxamen3.FXMLDocumentController">
+    <children>
+      <Label layoutX="126.0" layoutY="61.0" text="ID:" />
+      <TextField fx:id="idTxt" layoutX="147.0" layoutY="57.0" />
+      <TextField fx:id="marcaTxt" layoutX="147.0" layoutY="93.0" />
+      <Label layoutX="105.0" layoutY="97.0" text="Marca:" />
+      <Label layoutX="96.0" layoutY="134.0" text="Modelo:" />
+      <TextField fx:id="modeloTxt" layoutX="147.0" layoutY="130.0" />
+      <TextField fx:id="almacenamientoTxt" layoutX="147.0" layoutY="166.0" />
+      <Label layoutX="50.0" layoutY="170.0" text="Almacenamietno:" />
+      <Button fx:id="atrasBoton" layoutX="133.0" layoutY="213.0" mnemonicParsing="false" onAction="#atrasBotonAction" prefHeight="25.0" prefWidth="44.0" text="&lt;" />
+      <Button fx:id="posteriorBoton" layoutX="222.0" layoutY="213.0" mnemonicParsing="false" onAction="#posteriorBotonAction" prefHeight="25.0" prefWidth="44.0" text="&gt;" />
+      <Button fx:id="configuracionBoton" layoutX="305.0" layoutY="14.0" mnemonicParsing="false" onAction="#configuracionBotonAction" text="Configuración" />
+    </children>
+</AnchorPane>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ordenadores>
+    <ordenador id="1">
+        <marca>HP</marca>
+        <modelo> probook</modelo>
+        <almacenamiento>560Gb</almacenamiento>
+    </ordenador>
+    <ordenador id="2">
+        <marca>segundo</marca>
+        <modelo>segundo</modelo>
+        <almacenamiento>470Gb</almacenamiento>
+    </ordenador>
+    <ordenador id="3">
+        <marca>tercero</marca>
+        <modelo>tercero</modelo>
+        <almacenamiento>1Tb</almacenamiento>
+    </ordenador>
+    <ordenador id="4">
+        <marca>HP</marca>
+        <modelo> probook</modelo>
+        <almacenamiento>560Gb</almacenamiento>
+    </ordenador>
+    <ordenador id="5">
+        <marca>cinco</marca>
+        <modelo>cinco</modelo>
+        <almacenamiento>555Gb</almacenamiento>
+    </ordenador>
+</ordenadores>
