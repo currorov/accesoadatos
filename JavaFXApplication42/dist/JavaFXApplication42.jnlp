@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="JavaFXApplication42.jnlp">
+  <information>
+    <title>JavaFXApplication42</title>
+    <vendor>denos</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="JavaFXApplication42.jar" size="8578" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="javafxapplication42.JavaFXApplication42"  name="JavaFXApplication42" />
+  <update check="always"/>
+</jnlp>

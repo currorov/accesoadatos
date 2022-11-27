@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libros>
+    <incidencia id="1">
+        <nombre>primera</nombre>
+        <apellidos>pri</apellidos>
+        <inci>una</inci>
+    </incidencia>
+    <incidencia id="2">
+        <nombre>segunda</nombre>
+        <apellidos>seg</apellidos>
+        <inci>dos</inci>
+    </incidencia>
+    <incidencia id="3">
+        <nombre>tercera</nombre>
+        <apellidos>ter</apellidos>
+        <inci>tres</inci>
+    </incidencia>
+</libros>
