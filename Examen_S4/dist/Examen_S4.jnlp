@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Examen_S4.jnlp">
+  <information>
+    <title>Examen_S4</title>
+    <vendor>Currorov</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Examen_S4.jar" size="9416" download="eager" />
+    <jar href="lib\mysql-connector-j-8.0.31.jar" size="2515519" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="examen_s4.Examen_S4"  name="Examen_S4" />
+  <update check="always"/>
+</jnlp>
